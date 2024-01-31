@@ -1,38 +1,20 @@
-# Destrezas adquiridas 
-
-# Destreza: consultas en base de dato
-
+### Destrezas adquiridas 
+Destreza: consultas en base de dato
 - Recopilar datos utilizando un lenguaje de secuencias de comandos como
  SQL
-
 - Realizar búsquedas en SQL - Ordenar y filtrar datos usando consultas de SQL - Convertir tipos de datos usando funciones de SQL
-
 Destreza: Visualización de datos
-
 - Visualizar conclusiones de datos y comunicar tus resultados a equipos de otras organizaciones
-
 - Crear visualizaciones de datos con Tableau - Crear elementos visuales en hojas de cálculo - Crear presentaciones a partir del análisis de datos
-
 Destreza: Paneles
-
 - Crear y capacitar usuarios de nuevos paneles
-
 - Identificar las necesidades de datos de los usuarios - Crear paneles con Tableau - Usar la metodología de Design Thinking para mejorar paneles
-
 Destreza: Informes
-
 - Crear informes integrales
-
 - Crear informes de limpieza de datos - Crear y mantener registros de cambios - Crear informes en R Markdown
-
 Destreza: Hojas de cálculo
-
 - Explorar y analizar conjuntos de datos con hojas de cálculo
-
 - Limpiar datos en hojas de cálculo - Ordenar y filtrar datos en hojas de cálculo - Crear tablas dinámicas en hojas de cálculo
-
 Destreza: Programación
-
 - Conocimiento de algunos lenguajes de programación (R, Python, SQL) y un enfoque organizado y metódico del trabajo
-
-- Instalar y usar el paquete tidyverse en R - Ejecutar scripts en RStudio - Crear visualizaciones de datos en RStudio y Tableu 
+- Instalar y usar el paquete tidyverse en R - Ejecutar scripts en RStudio - Crear visualizaciones de datos en RStudio y Tableu ### 
